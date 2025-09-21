@@ -11,8 +11,8 @@ INFORMAÇÕES IMPORTANTES SOBRE O PROJETO E O QUE EU FIZ:
 usuário tome a decisão de "Sair do programa", encerrando o ciclo.
 -Realizei o uso de uma classe onde ficam alguns atributos de classe e os métodos que
 realizam a função escolhida pelo usuário.
--ainda não fiz o tratamento de possíveis erros envolvendo input's inválidos por parte do
-usuário.
+-Fiz o tratamento de possíveis erros envolvendo input's inválidos por parte do
+usuário como letras ao invés de números.
 -ainda não realizei o sistema de login e saldo dos usuários.
 
 FUTURAS MELHORIAS:
